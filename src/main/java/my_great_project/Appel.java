@@ -11,7 +11,7 @@ public class Appel {
 		
 		System.out.println(Strings.isNullOrEmpty("gege"));
 		System.out.println(StringUtils.isEmpty("dada"));
-	
+	// okokokoko 
 
 	}
 
